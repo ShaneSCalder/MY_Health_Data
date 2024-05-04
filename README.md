@@ -1,5 +1,5 @@
 # MY_Health_Data
-Privacy Preserving System and Off-Chain Document Handling that integrates multiple web3 solutions and blockchains 
+Privacy Preserving System and Document Handling that integrates multiple web3 solutions and blockchains 
 
 ## Problem 
  - add info here
